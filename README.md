@@ -45,10 +45,8 @@ Building with **React**, **Next.js** and **TypeScript**. Focused on clean UI, st
 **State & data**
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=zustand)
 ![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Styling & UI**
 
@@ -62,8 +60,6 @@ Building with **React**, **Next.js** and **TypeScript**. Focused on clean UI, st
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-000?style=for-the-badge)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 **Routing & i18n**
 
@@ -72,8 +68,6 @@ Building with **React**, **Next.js** and **TypeScript**. Focused on clean UI, st
 
 **Testing & tooling**
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
